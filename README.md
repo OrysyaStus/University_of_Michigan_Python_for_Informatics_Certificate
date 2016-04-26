@@ -7,4 +7,4 @@ Python Specialization Certificate through the University of Michigan via Courser
 <li> Using Databases with Python </li>
 <li> Using Python to Access Web Data </li>
 <li> Python Data Structures </li>
-<li> Programming for Everybody </li>
+<li> [Programming for Everybody](https://github.com/OrysyaStus/Python_for_Informatics/tree/master/Programming_for_Everybody) </li>
