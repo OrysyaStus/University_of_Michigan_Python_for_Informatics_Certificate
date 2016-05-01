@@ -2,7 +2,6 @@
 
 Python Specialization Certificate through the University of Michigan via Coursera. The following courses are included in the specialization:
 
-# [Coursera](https://www.coursera.org/specializations/python)
 # <li> Capstone: Retrieving, Processing, and Visualizing Data with Python </li>
 In the capstone, students will build a series of applications to retrieve, process and visualize data using Python.   The projects will involve all the elements of the specialization.  In the first part of the capstone, students will do some visualizations to become familiar with the technologies in use and then will pursue their own project to visualize some other data that they have or can find. Chapter 15 from the book “Python for Informatics” will serve as the backbone for the capstone.
 # <li> Using Databases with Python </li>
@@ -13,3 +12,5 @@ This course will show how one can treat the Internet as a source of data.  We wi
 This course will introduce the core data structures of the Python programming language. We will move past the basics of procedural programming and explore how we can use the Python built-in data structures such as lists, dictionaries, and tuples to perform increasingly complex data analysis. This course will cover Chapters 6-10 of the textbook “Python for Informatics”.  This course is equivalent to the second half of the 11-week "Programming for Everybody (Python)" course.
 # <li> [Programming for Everybody](https://github.com/OrysyaStus/Python_for_Informatics/tree/master/Programming_for_Everybody) </li>
 This course aims to teach everyone the basics of programming computers using Python. We cover the basics of how one constructs a program from a series of simple instructions in Python.  The course has no pre-requisites and avoids all but the simplest mathematics. Anyone with moderate computer experience should be able to master the materials in this course. This course will cover Chapters 1-5 of the textbook “Python for Informatics”.   This course is equivalent to the first half of the 11-week "Programming for Everybody (Python)" course.  Once a student completes this course, they will be ready to take more advanced programming courses.
+
+# [Coursera](https://www.coursera.org/specializations/python)
