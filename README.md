@@ -1,4 +1,4 @@
-# Python_for_Informatics
+## Python_for_Informatics
 
 Python Specialization Certificate through the University of Michigan via Coursera. The following courses are included in the specialization:
 
